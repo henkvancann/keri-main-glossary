@@ -1,0 +1,5 @@
+[[def: stable, stable]]
+
+~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/stable'>here</a>
+
+~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/stable">extended KERI glossary</a>
