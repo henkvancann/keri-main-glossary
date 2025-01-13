@@ -1,5 +1,4 @@
 [[def: verifiable-identifier, verifiable identifier]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/verifiable-identifier'>here</a>
-
+~ Cryptographically verifiable authentic decentralized identifier (verfiable [[ref: DID]])
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/verifiable-identifier">extended KERI glossary</a>

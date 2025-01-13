@@ -1,5 +1,5 @@
 [[def: entity, entity]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/entity'>here</a>
+~ [entity](https://trustoverip.github.io/essiflab/glossary#entity) in the **#essiflab** glossary.
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/entity">extended KERI glossary</a>

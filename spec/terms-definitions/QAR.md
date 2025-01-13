@@ -1,5 +1,4 @@
 [[def: QAR, QAR]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/QAR'>here</a>
-
+~ [[ref: qvi-authorized-representative]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/QAR">extended KERI glossary</a>

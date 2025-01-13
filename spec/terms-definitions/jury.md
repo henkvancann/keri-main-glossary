@@ -1,5 +1,4 @@
 [[def: jury, jury]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/jury'>here</a>
-
+~ The jury is the set of entities or components acting as [[ref: juror]].
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/jury">extended KERI glossary</a>

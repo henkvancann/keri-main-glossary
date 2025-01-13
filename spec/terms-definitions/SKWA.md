@@ -1,5 +1,4 @@
 [[def: SKWA, SKWA]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/SKWA'>here</a>
-
+~ [[ref: simple-keri-for-web-auth]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/SKWA">extended KERI glossary</a>

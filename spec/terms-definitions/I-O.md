@@ -1,5 +1,4 @@
 [[def: I-O, I O]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/I-O'>here</a>
-
+~ [[ref: input-output]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/I-O">extended KERI glossary</a>

@@ -1,5 +1,4 @@
 [[def: VCTEL, VCTEL]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/VCTEL'>here</a>
-
+~ [[ref: virtual-credential-transaction-event-log]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/VCTEL">extended KERI glossary</a>

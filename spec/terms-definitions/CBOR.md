@@ -1,5 +1,4 @@
 [[def: CBOR, CBOR]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/CBOR'>here</a>
-
+~ [[ref: concise-binary-object-representation]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/CBOR">extended KERI glossary</a>

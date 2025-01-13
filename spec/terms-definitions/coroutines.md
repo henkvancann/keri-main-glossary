@@ -1,5 +1,5 @@
 [[def: coroutines, coroutines]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/coroutines'>here</a>
+~ Computer programs that can be suspended and resumed at will.
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/coroutines">extended KERI glossary</a>

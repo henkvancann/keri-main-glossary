@@ -1,5 +1,4 @@
 [[def: BOLA, BOLA]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/BOLA'>here</a>
-
+~ [[ref: broken-object-level-authorization]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/BOLA">extended KERI glossary</a>

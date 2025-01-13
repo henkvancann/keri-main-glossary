@@ -1,5 +1,4 @@
 [[def: composable, composable]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/composable'>here</a>
-
+~ [[ref: composability]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/composable">extended KERI glossary</a>

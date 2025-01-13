@@ -1,5 +1,5 @@
 [[def: vrt, vrt]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/vrt'>here</a>
+~ vrt = vdr rotate, verifiable data registry rotation
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/vrt">extended KERI glossary</a>

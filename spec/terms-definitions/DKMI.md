@@ -1,5 +1,4 @@
 [[def: DKMI, DKMI]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/DKMI'>here</a>
-
+~ [[ref: decentralized-key-management-infrastructure]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/DKMI">extended KERI glossary</a>

@@ -1,5 +1,4 @@
 [[def: KAWA, KAWA]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/KAWA'>here</a>
-
+~ [[ref: keri’s-algorithm-for-witness-agreement]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/KAWA">extended KERI glossary</a>

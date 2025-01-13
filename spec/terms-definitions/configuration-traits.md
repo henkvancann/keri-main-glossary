@@ -1,5 +1,5 @@
 [[def: configuration-traits, configuration traits]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/configuration-traits'>here</a>
-
+~ a list of specially defined strings representing a configuration of a KEL. See (Configuration traits field)[#configuration-traits-field].  
+~ Source: Dr. S.Smith, 2024
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/configuration-traits">extended KERI glossary</a>

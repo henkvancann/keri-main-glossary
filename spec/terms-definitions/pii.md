@@ -1,5 +1,4 @@
 [[def: pii, pii]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/pii'>here</a>
-
+~ personally identifiable information
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/pii">extended KERI glossary</a>

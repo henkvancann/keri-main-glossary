@@ -1,5 +1,4 @@
 [[def: SKRAP, SKRAP]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/SKRAP'>here</a>
-
+~ [[ref: signify-keria-request-authentication-protocol]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/SKRAP">extended KERI glossary</a>

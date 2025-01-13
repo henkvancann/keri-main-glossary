@@ -1,5 +1,5 @@
 [[def: reputational-trust, reputational trust]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/reputational-trust'>here</a>
+~ Established by a trusted party offering [[ref: identity-assurance]].
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/reputational-trust">extended KERI glossary</a>

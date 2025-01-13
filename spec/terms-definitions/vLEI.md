@@ -1,5 +1,4 @@
 [[def: vLEI, vLEI]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/vLEI'>here</a>
-
+~ [[ref: verifiable-legal-entity-identifier]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/vLEI">extended KERI glossary</a>

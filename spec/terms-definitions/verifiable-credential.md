@@ -1,5 +1,5 @@
 [[def: verifiable-credential, verifiable credential]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/verifiable-credential'>here</a>
+~ Verifiable credentials (VCs) are an [open standard](https://en.wikipedia.org/wiki/Open_standard) for digital credentials. They can represent information found in physical credentials, such as a passport or license, as well as new things that have no physical equivalent, such as ownership of a bank account.
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/verifiable-credential">extended KERI glossary</a>

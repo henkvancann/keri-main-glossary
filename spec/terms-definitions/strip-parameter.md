@@ -1,5 +1,5 @@
 [[def: strip-parameter, strip parameter]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/strip-parameter'>here</a>
+~ tells us what part of the [[ref: CESR]] stream will be parsed by which code.
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/strip-parameter">extended KERI glossary</a>

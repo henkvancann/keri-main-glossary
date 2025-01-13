@@ -1,5 +1,8 @@
 [[def: collision, collision]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/collision'>here</a>
+~ In cryptography and identity _collision_ generally refers to something going wrong because an identical result has been produced but it refers to - or points to - different sources or assets backing this result.
+
+~ E.g. two hashes collide, meaning two different digital sources produce the same hash.  
+~ Another example is [name(space) collision](https://en.wikipedia.org/wiki/Naming_collision).
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/collision">extended KERI glossary</a>

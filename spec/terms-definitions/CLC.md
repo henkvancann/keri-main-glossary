@@ -1,5 +1,4 @@
 [[def: CLC, CLC]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/CLC'>here</a>
-
+~ [[ref: chain-link-confidentiality]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/CLC">extended KERI glossary</a>

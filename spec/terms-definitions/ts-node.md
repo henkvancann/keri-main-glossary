@@ -1,5 +1,4 @@
 [[def: ts-node, ts node]]
 
-~ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/ts-node'>here</a>
-
+~ npm package that lets you run typescript from a shell
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/ts-node">extended KERI glossary</a>
